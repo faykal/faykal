@@ -29,7 +29,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@faykalmlbb) 
 [![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?logo=Telegram&logoColor=white)](https://t.me/faykalrorr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/fikrifaykal)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-%23000000.svg?logo=WhatsApp&logoColor=white)]([https://whatsapp.com/channel/0029VasjrIh3gvWXKzWncf2P](https://whatsapp.com/channel/0029Vax4ADpI1rcZh3aveq1e)) 
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-%23000000.svg?logo=WhatsApp&logoColor=white)](https://whatsapp.com/channel/0029Vax4ADpI1rcZh3aveq1e) 
 
 ## 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
