@@ -3,10 +3,10 @@
 <h2 align="left"> Hi 👋, I'm Faykal </h2>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7139E&lines=Bot+Developer;JavaScript+Enthusiast;AI+ChatGPT+Specialist;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&duration=4000&pause=500&color=00BFFF&&lines=Bot+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Lifelong+Learner+%E2%9C%A8" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning JavaScript and Bot Development
 
